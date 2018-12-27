@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabPro</string>
+    <string name="greet">Welcome to NAST</string>
+    <string name="welcome_msg">Welcome to NAST</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login_header">Login</string>
+    <string name="log_in">LogIn</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="email_hint">User Name or Email</string>
+    <string name="password_hint">Password</string>
+</resources>
